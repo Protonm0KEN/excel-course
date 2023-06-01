@@ -1,0 +1,22 @@
+Webpack (imports/exports)
+    Babel
+    Scss (Sass)
+    Mixins
+    Eslint
+    2 Modes
+        -DEV
+            DEV SERVER, Source Maps, ESLINT, Not minified JS & SCSS/CSS
+        -PROD
+            Minified CODE,
+
+
+
+Git ( Flow )
+
+    Production
+        1.0.0
+        -------
+    Development
+      1.0.2
+        1: --------- + 2 Pull Request
+        2: ------------- | delete
